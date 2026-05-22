@@ -9,7 +9,8 @@ function dblclickButton2(name: string, e: Event) {
   console.log(name, e);
 }
 function rightclickButton3(name: string, e: Event) {
-  console.log("点击了按钮",name, e);
+  console.log("点击了右键",name, e);
+
 }
 
 </script>
